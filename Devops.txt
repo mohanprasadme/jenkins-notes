@@ -1,0 +1,5 @@
+Devops Enginer Road map
+
+Aws cloud services => 15+ Services,
+
+Devops Tools => Git, jenkins , Terraform,Docker,Kubernetes,Ansible, Monitoring &Logging ,Linux,Python
