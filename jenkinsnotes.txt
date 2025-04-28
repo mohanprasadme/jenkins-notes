@@ -1,9 +1,11 @@
 
 
 https://www.youtube.com/watch?v=50tPAH2cR6c
+https://www.youtube.com/watch?v=bwoHrj9_Iho&t=901s
 
 1) what is jenkins
 2) installation of jenkins
-3) create a job and types of jobs in jenkins
-4)type of trigger in jenkins
+3) How to create a job and types of jobs in jenkins
+4)type of trigger upsteam,downsteam trigger in jenkins
 5) user access , role access, userbased permission configuration process
+6)  create pipeline and 2 types of pipeline Declarative Pipeline & Scripted Pipeline
